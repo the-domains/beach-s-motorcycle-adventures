@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Beach's Motorcycle Adventures]]></title>
         <description><![CDATA[Beach's Motorcycle Adventures]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/beach-s-motorcycle-adventures/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jul 2016 09:44:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Jul 2016 10:11:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/beach-s-motorcycle-adventures/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Its live! What can we do with it?]]></title>
+            <description><![CDATA[<p>Here we go with an experiment. A first post on a possible BMCA website, using the Grid.io AI interface. Let it rip!</p>]]></description>
+            <link>https://thegrid.ai/beach-s-motorcycle-adventures/its-live-what-can-we-do-with-it/index.html</link>
+            <guid isPermaLink="false">799f6c84-f01d-48eb-b607-3cd2f0fc6037</guid>
+            <pubDate>Mon, 04 Jul 2016 10:11:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[BMWMOA Rally - Ride the Bob Beach Memorial Parkway!]]></title>
             <description><![CDATA[<article><h1>BMWMOA Rally - Ride the Bob Beach Memorial Parkway!</h1><p>Situated on the Niagara River is an excellent location overlooking Canada, Beach's Motorcycle Adventures home office is exactly that! Jacob Beach, the 3rd generation working in the World's oldest motorcycle tour company, and the rest of the U.S. staff are eager to feed you, talk motorcycles, or just show off the magnificent Niagara region.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0322c3fa049a9abdab2a0d440048b7da/croprotate.png?cropheight=1307&cropwidth=1728&degrees=0&input=http%3A%2F%2Fwww.bmca.com%2Fgraphics%2Fbmca-logo.png&x=0&y=0"></article>]]></description>
