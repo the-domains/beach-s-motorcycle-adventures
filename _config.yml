@@ -1,0 +1,28 @@
+name: Beach's Motorcycle Adventures
+favicon: null
+layout_spectrum: 0.20361469476483762
+typography_spectrum: 0.2127202656120062
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.1725961547344923
+  lightness: 0.8952245919499546
+  saturation: 0.8261305261403322
+  rhythmicContrast: 0.2998384777456522
+purpose: []
